@@ -1,6 +1,9 @@
 # AI-Powered Customer Issue Intelligence (NLP)
 ## Project Artifacts
-- 📘 [Main Analysis Notebook](notebooks/01_complaint_nlp_analysis.ipynb)
+- 📘 [Main Analysis Notebook][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/sushmitha-lab/AI-powered-customer-issue-intelligence/blob/main/notebooks/01_complaint_nlp_analysis.ipynb
+)
+
 
 ## Overview
 This project builds an end-to-end NLP system to analyze and classify real-world consumer complaint narratives into financial product categories.
