@@ -66,6 +66,18 @@ This project demonstrates how NLP can be used to:
 
 ## Key Insight
 Classical NLP models provide robust baselines for large-scale text classification, while transformer-based models enhance semantic understanding but remain sensitive to label noise and sample imbalance.
+## Final Conclusion
+
+This project demonstrates a full NLP lifecycle on real-world consumer complaint data,
+from exploratory analysis through model comparison and evaluation.
+
+Key takeaways:
+- Classical NLP methods remain strong baselines for large, imbalanced text datasets.
+- Transformer-based models offer improved semantic understanding but introduce
+  computational and operational tradeoffs.
+- Real-world data quality, label ambiguity, and class imbalance often limit achievable performance.
+
+These findings reflect practical considerations when deploying NLP systems in production environments.
 
 ---
 
