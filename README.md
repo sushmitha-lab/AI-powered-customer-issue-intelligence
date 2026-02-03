@@ -1,7 +1,4 @@
-# AI-powered-customer-issue-intelligence
-NLP system for classifying and analyzing real-world consumer complaint narratives
 # AI-Powered Customer Issue Intelligence (NLP)
-
 ## Overview
 This project builds an end-to-end NLP system to analyze and classify real-world consumer complaint narratives into financial product categories.
 
