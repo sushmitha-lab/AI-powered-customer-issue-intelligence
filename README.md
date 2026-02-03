@@ -1,4 +1,7 @@
 # AI-Powered Customer Issue Intelligence (NLP)
+## Project Artifacts
+- 📘 [Main Analysis Notebook](notebooks/01_complaint_nlp_analysis.ipynb)
+
 ## Overview
 This project builds an end-to-end NLP system to analyze and classify real-world consumer complaint narratives into financial product categories.
 
